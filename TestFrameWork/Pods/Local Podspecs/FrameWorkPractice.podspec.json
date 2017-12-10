@@ -1,0 +1,19 @@
+{
+  "name": "FrameWorkPractice",
+  "version": "1.0.0",
+  "summary": "This is a simple FrameWork test on cocoapod.",
+  "description": "A simple FrameWork. (note: it must be longer than summary or it will get warning)",
+  "homepage": "https://github.com/Russell-Tsai/FrameWorkPractice",
+  "license": "MIT",
+  "authors": {
+    "RUSSELL.TSAI": "vanilla.love10@gmail.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/Russell-Tsai/FrameWorkPractice.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "FrameWorkPractice/**/*"
+}
